@@ -1,0 +1,21 @@
+{
+  "jupyter-lite-schema-version": 0,
+
+  "jupyter-config-data": {
+    "disabledExtensions": [
+      "@jupyterlab/drawio-extension",
+      "jupyterlab-kernel-spy",
+      "jupyterlab-tour",
+      "@jupyterlab/open-url-parameter"
+    ]
+  },
+
+  "pyodide": {
+    "packages": [
+      "numpy",
+      "pandas",
+      "matplotlib",
+      "seaborn"
+    ]
+  }
+}
